@@ -35,7 +35,7 @@
 http://www.fletter.cn/
 
 ### 演示地址
-* 地址 :http://47.96.75.189/manager/
+* 地址 :http://47.108.162.237/manager/
   * 账号：testabcd
   * 密码：qq112233
   * 安全码：qq112233
