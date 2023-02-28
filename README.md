@@ -45,6 +45,7 @@ http://www.fletter.cn/
 ```
   nickName  : "Momo",
   QQ : 1825934566
+  微信 : everthink
 ```
 
 ### 更过说明：
