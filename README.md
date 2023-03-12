@@ -50,7 +50,7 @@ http://www.fletter.cn/
 ##联系我呀
 
 ![mahua](https://self-user.oss-cn-beijing.aliyuncs.com/IMG_6654.JPG!w250)
-### 更过说明：
+### 更多说明：
 如果你有相关的社交系统需要开发，也可以联系我定制，只要说出你的需求就可以了哈，保质保量哦！`QQ : 1825934566`
 
 ### 后端截图
